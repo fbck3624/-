@@ -1,2 +1,2 @@
-# DediProg-Technology-Interview
+# NUEiP-Interview
 ## 使用php撰寫
